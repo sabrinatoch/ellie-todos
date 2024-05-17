@@ -1,5 +1,6 @@
 # ellie-todos
 
+Created by following John Komarnicki's Vue 3 Crash Course.
 <a href="https://6647c00133bf64311fc783f3--idyllic-dusk-8da18f.netlify.app/" target="_blank">Check out the deployed version!</a>
 
 This template should help get you started developing with Vue 3 in Vite.
