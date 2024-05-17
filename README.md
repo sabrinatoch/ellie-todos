@@ -1,5 +1,7 @@
 # ellie-todos
 
+<a href="https://6647c00133bf64311fc783f3--idyllic-dusk-8da18f.netlify.app/">Check out the deployed version!</a>
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
